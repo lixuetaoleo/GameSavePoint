@@ -1,0 +1,25 @@
+{
+  "name": "gamesavepoint",
+  "version": "1.0.0",
+  "description": "A game progress tracking application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixuetaoleo/GameSavePoint.git"
+  },
+  "keywords": [],
+  "author": "Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixuetaoleo/GameSavePoint/issues"
+  },
+  "homepage": "https://github.com/lixuetaoleo/GameSavePoint#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^3.0.0",
+    "vite": "^4.0.0"
+  }
+}
